@@ -63,8 +63,8 @@ def add_characters
    # Code your solution here:
 
     :additional_characters => [
-      {:name},
-      {:name}
+      {:name => "Prince Escalus"},
+      {:name => "Apothecary"}
       ]
 
 
